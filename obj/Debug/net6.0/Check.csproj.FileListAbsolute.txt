@@ -1,0 +1,15 @@
+C:\Users\NoKatana\Desktop\GB\Check\Check\bin\Debug\net6.0\Check.exe
+C:\Users\NoKatana\Desktop\GB\Check\Check\bin\Debug\net6.0\Check.deps.json
+C:\Users\NoKatana\Desktop\GB\Check\Check\bin\Debug\net6.0\Check.runtimeconfig.json
+C:\Users\NoKatana\Desktop\GB\Check\Check\bin\Debug\net6.0\Check.dll
+C:\Users\NoKatana\Desktop\GB\Check\Check\bin\Debug\net6.0\Check.pdb
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.csproj.AssemblyReference.cache
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.AssemblyInfoInputs.cache
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.AssemblyInfo.cs
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.csproj.CoreCompileInputs.cache
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.dll
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\refint\Check.dll
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.pdb
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\Check.genruntimeconfig.cache
+C:\Users\NoKatana\Desktop\GB\Check\Check\obj\Debug\net6.0\ref\Check.dll
