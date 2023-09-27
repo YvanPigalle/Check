@@ -1,4 +1,7 @@
-﻿void PrintArray(string[] array)
+﻿﻿string[] array1 = new string[] {"Astarion", "Lee", "88", "1234", "kek", "1"};
+string[] array2 = new string[array1.Length];
+
+void PrintArray(string[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
@@ -19,3 +22,6 @@ void ArrayChanged(string[] array1, string[] array2)
         }
     }
 }
+
+ArrayChanged(array1, array2);
+PrintArray(array2);
